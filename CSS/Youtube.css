@@ -1,0 +1,26 @@
+#TopL {
+    font-family: 'Times New Roman', Times, serif;
+    width:70%;
+    margin: 0 auto;
+    padding-left: 45%;
+    text-align: center;
+}
+
+#TopL h3{
+font-family: 'Courier New', Courier, monospace ;
+}
+
+#Imgs a img{
+ min-width:10em;
+ max-width: 33em;
+ padding-left: 1em;
+}
+
+
+
+#Imgs {
+    display: flex;
+    flex-direction: row;
+    
+}
+
